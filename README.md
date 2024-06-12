@@ -1,6 +1,4 @@
-# Hamro_library_Backend
-
-# Hamro Library
+# Hamro Library Backend
 
 Hamro Library is a Library Management System (LMS) built using Spring Boot, Hibernate, JPA, and MySQL. It offers all the functionalities required to manage a library effectively, including book management, user management, and transaction management.
 
