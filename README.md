@@ -37,11 +37,7 @@ Hamro Library is a Library Management System (LMS) built using Spring Boot, Hibe
 
 1. **Clone the repository:**
 
-   ```bash
-   git clone https://github.com/yourusername/hamro-library.git
-   cd hamro-library
-   ```
-2. **Configure the Database**
+2. **Configure the Application.properties file**
 
    ```bash
    # Connection of mysql
@@ -64,6 +60,8 @@ Hamro Library is a Library Management System (LMS) built using Spring Boot, Hibe
    spring.mail.properties.mail.smtp.auth=true
    spring.mail.properties.mail.smtp.starttls.enable=true
    ```
+
+3. **Run the project**
 
    # Author
    ## Ashutosh Kumar Mangal
